@@ -39,7 +39,7 @@
     "marked": "^1.0.0",
     "node-sass": "^5.0.0",
     "postcss": "^8.0.0",
-    "stylus": "^0.54.5",
+    "stylus": "^0.63.0",
     "pug": "^2.0.0-alpha6",
     "through": "2.3.8"
   },
